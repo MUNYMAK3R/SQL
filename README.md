@@ -44,4 +44,4 @@ To open the database run this file in SQLite: `Store.db`
 
 # Useful Websites
 
-* [SQLite refrence] (.html)
+* [SQLite refrence] (https://www.sqlite.org/index.html)
